@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas
 
-[My Page](https://lucasregisdemoraes.github.io/)
+[Click here to see my page](https://lucasregisdemoraes.github.io/)
 
 ## About me
 - I am 19 years old
@@ -13,11 +13,11 @@
 - Javascript
 - Git
 - GitHub
-- React Native
+- React (learning)
+- React Native (learning)
 - Intermediate English
 
 ## I'm interested in learning about:
-- React
 - ElectronJS
 - Game development
 - Artificial Intelligence
