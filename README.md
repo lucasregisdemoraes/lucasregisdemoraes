@@ -2,9 +2,12 @@
 
 [Click here to see my page](https://lucasregisdemoraes.github.io/)
 
+[Click here to see my portfolio projects](https://lucasregisdemoraes.github.io/pages/projects)
+
 ## About me
 - I am 19 years old
 - I am looking for a job
+- I am studying "Infomática para internet" at Etec Trajano Camargo
 - I like programming, games, movies and TV series
 
 ## My Knowledge:
@@ -15,6 +18,8 @@
 - GitHub
 - React (learning)
 - React Native (learning)
+- Figma
+- Inkscape
 - Intermediate English
 
 ## I'm interested in learning about:
