@@ -6,8 +6,6 @@
 
 ## About me
 - I am 20 years old
-- I am looking for a job
-- I am studying "Infomática para internet" at Etec Trajano Camargo
 - I like programming, games, movies and TV series
 
 ## My Knowledge:
