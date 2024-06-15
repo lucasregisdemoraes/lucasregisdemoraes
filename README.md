@@ -5,7 +5,7 @@
 [Click here to see my portfolio projects](https://lucasregisdemoraes.github.io/pages/projects)
 
 ## About me
-- I am 20 years old
+- I am 21 years old
 - I like programming, games, movies and TV series
 
 ## My Knowledge:
